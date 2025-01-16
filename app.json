@@ -1,27 +1,27 @@
 {
-    "name": "WebX Renamer Bot",
+    "name": "Nandu 4G Renamer Bot",
     "description": "Telegram File Renamer Bot ",
     "keywords": ["Renamer Bot", "Mongo DB"],    
     "repository": "https://github.com/WebX-Divin/Rename-Bot-V1.0",
     "env": {
-        "API_ID": {
+        "API_ID": {25210379
             "description": "Your APP ID From my.telegram.org ",
             "value": ""
         },
-        "API_HASH": {
+        "API_HASH": {2f43e4bccc419e3b7e28e3219bb1d68c
             "description": "Your API Hash From my.telegram.org ",
             "value": ""
         },
-        "FORCE_SUB": {
+        "FORCE_SUB": {@HollyMovies4
             "description": "Your force sub channel user name without [@] ",
             "value": "",
             "required": false 
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {7789305386:AAENQPOGplAypShEuuwkWn4CmP1cCx4TiZ0
             "description": "Your Bot Token From @BotFather",
             "value": ""
         },
-        "ADMIN": {
+        "ADMIN": {@Nandu2129
             "description":"Add Your User ID multiple is use space to split",
             "value": ""
         },
